@@ -27,11 +27,14 @@ main {
 
 h1 {
     font-size: 2.5rem;
+    font-weight: bold;
     margin-bottom: 0.5rem;
+
 }
 
 h2 {
     font-size: 2rem;
+    font-weight: italic;
     margin-bottom: 0.5rem;
 }
 
@@ -41,6 +44,6 @@ h3 {
 
 /* Footer styles */
 footer {
-    background-color: #F6F7EB;
-    padding: 1rem 0;
+    background-color: #880020;
+    padding: 2rem 0;
 }
