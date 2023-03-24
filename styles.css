@@ -1,6 +1,20 @@
 /* General styles */
+@font-face {
+    font-family: 'script';
+    src: url('BrettleySignatureRegular-RpEMo.tff') format('tff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'script';
+    src: url('BrettleySignatureRegular-RpEMo.tff') format('tff');
+    font-weight: 700;
+    font-style: normal;
+}
+
 body {
-    font-family: 'Bodoni*', serif;
+    font-family: 'script', serif;
     background-color: #F6F7EB;
     line-height: 1.6;
     color: #333;
