@@ -30,7 +30,7 @@ h1, h2, h3 {
 
 /* Header styles */
 header {
-    padding: 3rem 0;
+    padding: 4rem 0;
     background-color: #880020;
 }
 
@@ -41,6 +41,7 @@ main {
 }
 
 h1 {
+    font-family: 'script', serif;
     font-size: 2.5rem;
     font-weight: bold;
     margin-bottom: 0.5rem;
@@ -48,17 +49,19 @@ h1 {
 }
 
 h2 {
+    font-family: 'script', serif;
     font-size: 2rem;
     font-weight: italic;
     margin-bottom: 0.5rem;
 }
 
 h3 {
+    font-family: 'script', serif;
     font-size: 1.5rem;
 }
 
 /* Footer styles */
 footer {
     background-color: #880020;
-    padding: 2rem 0;
+    padding: 4rem 0;
 }
