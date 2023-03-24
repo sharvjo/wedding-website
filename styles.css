@@ -10,6 +10,7 @@ body {
 
 h1, h2, h3 {
     color: #333; /* Explicitly set the color for the headings */
+    text-align: center; /*explictly make clear that its center*/
 }
 
 /* Header styles */
