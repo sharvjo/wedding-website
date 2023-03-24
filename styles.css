@@ -8,9 +8,13 @@ body {
     padding: 0;
 }
 
+h1, h2, h3 {
+    color: #333; /* Explicitly set the color for the headings */
+}
+
 /* Header styles */
 header {
-    padding: 1rem 0;
+    padding: 7rem 0;
     background-color: #F6F7EB;
 }
 
