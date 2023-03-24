@@ -9,14 +9,14 @@ body {
 }
 
 h1, h2, h3 {
-    color: #333; /* Explicitly set the color for the headings */
+    color: #880020; /* Explicitly set the color for the headings */
     text-align: center; /*explictly make clear that its center*/
 }
 
 /* Header styles */
 header {
     padding: 7rem 0;
-    background-color: #F6F7EB;
+    background-color: #880020;
 }
 
 /* Main content styles */
